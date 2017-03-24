@@ -1,0 +1,6 @@
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\Inventario\Inventario\bin\Debug\Inventario.exe.config
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\Inventario\Inventario\bin\Debug\Inventario.exe
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\Inventario\Inventario\bin\Debug\Inventario.pdb
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\Inventario\Inventario\obj\Debug\Inventario.csprojResolveAssemblyReference.cache
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\Inventario\Inventario\obj\Debug\Inventario.exe
+c:\users\nathan.magalhaes\documents\visual studio 2015\Projects\Inventario\Inventario\obj\Debug\Inventario.pdb
